@@ -112,4 +112,4 @@ const S3 = require('aws-sdk/clients/s3');
 
 Node.js モジュールの大部分はネイティブではなく、650.000 のモジュールのうち 400 個だけがネイティブである。
 
-ただし、ネイティブモジュールが必要な場合は、「ネイティブの Node モジュールを使用する(https://github.com/electron/i18n/blob/master/content/ja-JP/docs/tutorial/using-native-node-modules.md)」を参照する。
+ただし、ネイティブモジュールが必要な場合は、「[ネイティブの Node モジュールを使用する](https://github.com/electron/i18n/blob/master/content/ja-JP/docs/tutorial/using-native-node-modules.md)」を参照する。
